@@ -41,10 +41,11 @@ This command initiates the spider and directs the scraped data to be saved in a 
 
 ## Project Structure
 . pawnshop.py: The core Scrapy spider code
+
 . pawnshop_output.csv: The CSV file containing the scraped pawnshop details.
 
 ## License
-This project is licensed under the [MIT License](MIT License). See the LICENSE file for details.
+This project is licensed under the [MIT License](License). See the LICENSE file for details.
 
 ## Acknowledgments
 This project was developed as a solution to the need for efficiently collecting pawnshop data for analysis.
